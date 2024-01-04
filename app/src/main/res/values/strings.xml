@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Suitmedia</string>
+    <string name="check">Check</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="welcome">Welcome</string>
+    <string name="Select">Selected User Name</string>
+    <string name="choose_user">Choose a User</string>
+    <string name="first_name">Nabil</string>
+    <string name="next">Next</string>
+    <string name="last_name">Anshari</string>
+    <string name="email">nblanshr0@gmail.com</string>
+</resources>
